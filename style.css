@@ -1,0 +1,2054 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container .first {
+    height: 70px;
+    width: 100%;
+    background: rgb(54, 54, 54);
+}
+
+#container .first .first_1 {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    height: 100%;
+    align-items: center;
+}
+
+#container .first .first_1 .fa-solid {
+    margin-right: 10px;
+    color: rgb(219, 219, 219);
+    font-size: 25px;
+    margin-left: 0;
+}
+
+#container .first .first_1 p {
+    font-size: 20px;
+    margin-right: 15px;
+    color: rgb(219, 219, 219);
+}
+
+#container .first .first_1 .gap {
+    margin-right: 50%;
+}
+
+
+#container .second {
+    height: 100px;
+    background: white;
+}
+
+#container .second .second_1 {
+    display: flex;
+    margin: auto;
+    width: 70%;
+    align-items: center;
+    height: 100%;
+}
+
+#container .second .second_1 h1 {
+    font-size: 35px;
+    text-transform: capitalize;
+    margin-right: 50%;
+    background-image: linear-gradient(to right, rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+#container .second .second_1 li {
+    display: inline-block;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+#container .second .second_1 li span {
+    padding-right: 10px;
+}
+
+#container .third {
+    height: 500px;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(car1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 100px;
+}
+
+#container .third h1 {
+    font-size: 35px;
+    width: 400px;
+    text-transform: capitalize;
+    color: white;
+    font-weight: bolder;
+}
+
+#container .third p {
+    font-size: 18px;
+    width: 350px;
+    text-transform: capitalize;
+    color: white;
+    margin: 25px 0px;
+    line-height: 30px;
+    font-weight: 200;
+}
+
+#container .third button {
+    padding: 10px;
+    width: 150px;
+    text-transform: capitalize;
+    color: white;
+    background: rgb(32, 32, 176);
+    border: none;
+    border-radius: 50px;
+}
+
+
+
+#container .forth {
+    height: 470px;
+}
+
+#container .forth .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .forth .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+
+#container .forth_1 {
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+
+
+#container .forth_1 .forth_3 {
+    width: 80%;
+    height: 240px;
+    margin-left: 25px;
+
+}
+
+#container .forth_1 .img {
+    width: 20%;
+    height: 240px;
+    background: rgb(215, 215, 215);
+}
+
+#container .forth_1 .img .forth_2 {
+    background-image: linear-gradient(rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#container .forth_1 .img .forth_2 .fa-laptop-code {
+    margin: 25%;
+    font-size: 90px;
+}
+
+#container .forth_1 .forth_3 h2 {
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+
+#container .forth_1 .forth_3 p {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 15px 0px;
+    color: rgb(76, 76, 76);
+}
+
+#container .forth_1 .forth_3 button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+}
+
+
+#container .fifth {
+    height: 290px;
+}
+
+
+#container .fifth_1 {
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+
+
+#container .fifth_1 .fifth_3 {
+    width: 70%;
+    height: 240px;
+
+}
+
+#container .fifth_1 .img {
+    width: 20%;
+    height: 240px;
+    margin-left: 25px;
+    background: rgb(215, 215, 215);
+}
+
+#container .fifth_1 .img .fifth_2 {
+    background-image: linear-gradient(rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 130px;
+    height: 100%;
+}
+
+#container .fifth_1 .img .fifth_2 .fa-chart-line {
+    margin: 25%;
+    font-size: 90px;
+}
+
+#container .fifth_1 .fifth_3 h2 {
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+
+#container .fifth_1 .fifth_3 p {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 15px 0px;
+    color: rgb(76, 76, 76);
+}
+
+#container .fifth_1 .fifth_3 button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+}
+
+#container .six {
+    height: 290px;
+}
+
+
+#container .six_1 {
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+
+
+#container .six_1 .six_3 {
+    width: 70%;
+    height: 240px;
+
+}
+
+#container .six_1 .img {
+    width: 20%;
+    height: 240px;
+    margin-right: 25px;
+    background: rgb(215, 215, 215);
+}
+
+#container .six_1 .img .six_2 {
+    background-image: linear-gradient(rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 130px;
+}
+
+#container .six_1 .img .six_2 .fa-video {
+    margin: 25%;
+    font-size: 100px;
+}
+
+#container .six_1 .six_3 h2 {
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+
+#container .six_1 .six_3 p {
+    font-size: 18px;
+    line-height: 30px;
+    margin: 15px 0px;
+    color: rgb(76, 76, 76);
+}
+
+#container .six_1 .six_3 button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+}
+
+
+#container .seven {
+    height: 900px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container .seven .sv {
+    height: 450px;
+    width: 50%;
+
+}
+
+#container .seven .seven_1 {
+    background-color: rgb(32, 32, 176);
+}
+
+
+#container .seven .seven_1 .fir {
+    margin: 7% 20%;
+}
+
+#container .seven .seven_1 .fir h3 {
+    color: rgb(238, 236, 236);
+    font-size: 15px;
+    text-transform: uppercase;
+    word-spacing: 4px;
+}
+
+#container .seven .seven_1 .fir h1 {
+    color: white;
+    margin: 20px 0px;
+    font-size: 40px;
+    text-transform: capitalize;
+    word-spacing: 5px;
+}
+
+
+#container .seven .seven_1 .fir li {
+    list-style: none;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#container .seven .seven_1 .fir li span {
+    color: white;
+    margin-right: 10px;
+}
+
+#container .seven .seven_1 .fir button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    border: 1px solid white;
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+
+
+#container .seven .seven_4 {
+    background: rgb(241, 241, 241);
+}
+
+#container .seven .seven_4 .for {
+    margin: 7% 5%;
+    margin-right: 45%;
+}
+
+#container .seven .seven_4 .for h3 {
+    font-size: 15px;
+    text-transform: uppercase;
+    word-spacing: 4px;
+}
+
+#container .seven .seven_4 .for h1 {
+    margin: 20px 0px;
+    font-size: 40px;
+    text-transform: capitalize;
+    word-spacing: 5px;
+}
+
+
+#container .seven .seven_4 .for p {
+    margin: 20px 0px;
+    font-size: 18px;
+    line-height: 30px;
+}
+
+#container .seven .seven_4 .for button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 25px;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+}
+
+#container .seven .seven_2 {
+    background: url(notes.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#container .seven .seven_3 {
+    background: url(watch.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+#container .eight {
+    height: 500px;
+}
+
+#container .eight .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .eight .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .eight .eig {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+#container .eight .eig .eg {
+    width: 25%;
+    height: 200px;
+}
+
+#container .eight .eig .fa-gem,
+.fa-chart-pie,
+.fa-chart-simple,
+.fa-camera {
+    background-image: linear-gradient(rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 90px;
+    margin: 12px 30%;
+}
+
+#container .eight .eig h2 {
+    text-transform: capitalize;
+    color: rgb(48, 47, 47);
+    width: 145px;
+    text-align: center;
+    margin: auto;
+}
+
+#container .eight button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+
+#container .nine {
+    height: 520px;
+    background: rgb(241, 241, 241);
+}
+
+#container .nine .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .nine .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .nine .nin {
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+
+#container .nine .nin .nine_1 {
+    width: 25%;
+    height: 300px;
+    margin-right: 25px;
+    background: url(laptop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .nine .nin .nine_2 {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+}
+
+#container .nine .nin .nine_2 p {
+    font-size: 24px;
+    margin-bottom: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container .nine .nin .nine_2 .nn {
+    display: flex;
+    justify-content: space-between;
+}
+
+#container .nine .nin .nine_2 h3,
+h4 {
+    font-size: 18px;
+    margin: 5px 0px;
+    text-transform: uppercase;
+    color: rgb(68, 68, 68);
+}
+
+#container .nine .nin .nine_2 .nine_4 {
+    height: 10px;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    background: linear-gradient(to right, rgb(68, 68, 168)85%, rgb(196, 196, 196)15%);
+}
+
+#container .nine .nin .nine_2 .nine_6 {
+    height: 10px;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    background: linear-gradient(to right, rgb(68, 68, 168)85%, rgb(196, 196, 196)15%);
+}
+
+#container .nine .nin .nine_2 .nine_8 {
+    height: 10px;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    background: linear-gradient(to right, rgb(68, 68, 168)60%, rgb(196, 196, 196)40%);
+}
+
+#container .nine .nin .nine_2 .nine_10 {
+    height: 10px;
+    width: 100%;
+    border-radius: 50px;
+    margin-bottom: 5px;
+    background: linear-gradient(to right, rgb(68, 68, 168)70%, rgb(196, 196, 196)30%);
+}
+
+#container .nine .nin button {
+    padding: 10px;
+    width: 120px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 25px;
+}
+
+#container .ten {
+    height: 150px;
+    color: white;
+    background-color: rgb(32, 32, 176);
+    display: flex;
+    align-items: center;
+}
+
+
+#container .ten .ten_1 {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+#container .ten .ten_1 .fa-bullhorn {
+    font-size: 60px;
+    color: white;
+    width: 100px;
+    margin-right: 35px;
+}
+
+#container .ten .ten_1 h2 {
+    font-size: 22px;
+    text-transform: capitalize;
+}
+
+#container .ten .ten_1 h2 span {
+    font-size: 20px;
+    color: rgb(241, 240, 240);
+}
+
+#container .ten .ten_1 button {
+    padding: 10px;
+    width: 120px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    border: 2px solid white;
+    background: transparent;
+    border-radius: 50px;
+    margin-left: 30%;
+}
+
+
+#container .eleven {
+    height: 400px;
+    background: white;
+}
+
+#container .eleven .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .eleven .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .eleven .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .eleven button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: transparent;
+    border-radius: 50px;
+    margin: 35px 45%;
+    display: block;
+}
+
+#container .twelve {
+    height: 700px;
+    background: rgb(241, 241, 241);
+}
+
+#container .twelve .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .twelve .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+
+#container .twelve .outer {
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+
+#container .twelve .outer .tw {
+    width: 33%;
+}
+
+#container .twelve .outer .twelve_2 {
+    margin: 0px 25px;
+}
+
+#container .twelve .outer .tw .img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 25px;
+}
+
+#container .twelve .outer .tw h2 {
+    text-transform: capitalize;
+    font-size: 22px;
+}
+
+#container .twelve .outer .tw h3 {
+    text-transform: capitalize;
+    font-size: 20px;
+    color: rgb(64, 64, 64);
+    margin: 25px 0px;
+}
+
+#container .twelve .outer .tw p {
+    text-transform: capitalize;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+#container .twelve .outer .tw .fa-facebook-f,
+.fa-twitter,
+.fa-google-plus-g {
+    padding: 15px;
+    background: white;
+    margin-right: 5px;
+    border-radius: 50%;
+    color: rgb(64, 64, 64);
+}
+
+#container .twelve .outer .tw .twelve_12 {
+    background: url(ceo1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#container .twelve .outer .tw .twelve_21 {
+    background: url(ceo2.webp);
+    background-position: center;
+    background-size: cover;
+}
+
+#container .twelve .outer .tw .twelve_31 {
+    background: url(ceo3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+#container .thirten {
+    height: 450px;
+    padding: 5% 15%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(pen.avif);
+    background-size: cover;
+    color: white;
+
+}
+
+#container .thirten .fa-box-open {
+    color: black;
+    font-size: 65px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#container .thirten h1 {
+    margin: 20px 0px;
+    text-align: center;
+    font-size: 45px;
+    text-transform: capitalize;
+}
+
+#container .thirten p {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    line-height: 28px;
+    color: rgb(223, 221, 221);
+}
+
+#container .thirten button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    border: 1px solid rgb(32, 32, 176);
+    background: rgb(32, 32, 176);
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+
+#container .forten {
+    height: 710px;
+}
+
+#container .forten .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .forten .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .forten .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .forten .port {
+    width: 70%;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+
+#container .forten .port .po {
+    height: 200px;
+    width: 33.33%;
+}
+
+#container .forten .port .po .port_12,
+.port_21,
+.port_31,
+.port_41,
+.port_51,
+.port_61 {
+    height: 80%;
+}
+
+#container .forten .port .po h4 {
+    text-align: center;
+    margin-top: 8px;
+}
+
+#container .forten .port .po .port_12 {
+    background: url(aggre.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .forten .port .po .port_21 {
+    background: url(enve.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0px 10px;
+}
+
+#container .forten .port .po .port_31 {
+    background: url(book.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .forten .port .po .port_41 {
+    background: url(ui.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .forten .port .po .port_51 {
+    background: url(shampoo.avif);
+    background-size: cover;
+    background-position: center;
+    margin: 0px 10px;
+}
+
+#container .forten .port .po .port_61 {
+    background: url(water.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .forten button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: white;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+
+#container .fiften {
+    height: 650px;
+    background: linear-gradient(rgb(49, 49, 164)55%, rgb(255, 255, 255)45%);
+}
+
+#container .fiften .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .fiften .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .fiften .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .fiften .ui {
+    width: 70%;
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#container .fiften .ux {
+    height: 250px;
+    width: 70%;
+    margin: auto;
+    background: url(ux.jpg);
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 45px;
+}
+
+#container .fiften button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    border: 1px solid rgb(32, 32, 176);
+    background: white;
+    border-radius: 50px;
+    margin: auto;
+    display: block;
+}
+
+
+#container .sixten {
+    height: 350px;
+    background: rgb(241, 241, 241);
+}
+
+#container .sixten .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .sixten .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .sixten .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container .sixten .agency {
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+
+#container .sixten .agency .num {
+    width: 25%;
+    height: 100px;
+    background: white;
+}
+
+#container .sixten .agency .application,
+.website {
+    margin: 0px 10px;
+}
+
+#container .sixten .agency h1 {
+    text-align: center;
+    margin: 5px 0px;
+    font-size: 45px;
+    color: rgb(32, 32, 176);
+}
+
+#container .sixten .agency h3 {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(68, 68, 68);
+    text-transform: uppercase;
+}
+
+
+#container .seventen {
+    height: 900px;
+    background: rgb(250, 249, 249);
+}
+
+#container .seventen .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .seventen .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .seventen .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container .seventen .seventen_1 {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    height: 600px;
+    margin-bottom: 35px;
+}
+
+
+#container .seventen .seventen_1 .feature_1 {
+    height: 58%;
+    width: 49%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background: rgb(32, 32, 176);
+}
+
+#container .seventen .seventen_1 .feature_1 h2 {
+    font-size: 30px;
+    text-transform: capitalize;
+    color: white;
+}
+
+#container .seventen .seventen_1 .feature_1 p {
+    margin: 25px 0px;
+    color: white;
+    line-height: 25px;
+}
+
+#container .seventen .seventen_1 .feature_1 button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    border: 2px solid white;
+    background: transparent;
+    border-radius: 50px;
+}
+
+
+
+#container .seventen .seventen_1 .book_1 {
+    height: 40%;
+    width: 50%;
+    background: url(book.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .seventen .seventen_1 .plan_1 {
+    height: 40%;
+    width: 49%;
+    margin-right: 10px;
+    background: url(planning.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .seventen .seventen_1 .medi_1 {
+    height: 58%;
+    width: 50%;
+    position: relative;
+    top: -107px;
+    background: url(lab.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .seventen .btn {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    background: white;
+    border-radius: 50px;
+    border: 2px solid rgb(32, 32, 176);
+    margin: auto;
+    display: block;
+}
+
+
+#container .eighten {
+    height: 550px;
+}
+
+#container .eighten .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .eighten .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .eighten .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container .eighten .ot {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container .eighten .ot .logo {
+    display: flex;
+    flex-direction: column;
+    font-size: 55px;
+    width: 10%;
+    text-align: center;
+}
+
+#container .eighten .ot .logo .fa-gem,
+.fa-tv,
+.fa-camera-retro {
+    padding-bottom: 55px;
+    background-image: linear-gradient(rgb(78, 78, 222), rgba(148, 0, 211), rgba(255, 0, 255));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+#container .eighten .ot .word {
+    width: 40%;
+    margin-left: 1%;
+}
+
+#container .eighten .ot .word h1 {
+    font-size: 25px;
+    text-transform: capitalize;
+    color: rgb(44, 44, 44);
+    margin-bottom: 15px;
+}
+
+#container .eighten .ot .word p {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+#container .eighten .ot .comp {
+    width: 46%;
+    margin-left: 3%;
+    background: url(comp.jpg);
+    background-size: cover;
+}
+
+#container .nineten {
+    height: 500px;
+    background: url(wall.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .twenty {
+    height: 750px;
+}
+
+#container .twenty .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .twenty .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .twenty .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container .twenty .beans {
+    width: 70%;
+    margin: auto;
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 35px;
+}
+
+#container .twenty .beans .med {
+    background: url(lab.jpg);
+    background-size: cover;
+    height: 50%;
+    width: 32%;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#container .twenty .beans .book {
+    background: url(book.jpeg);
+    background-size: cover;
+    height: 30%;
+    width: 32%;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+
+#container .twenty .beans .aggre {
+    background: url(aggre.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 30%;
+    width: 33%;
+}
+
+#container .twenty .beans .open {
+    background: url(aggre.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 40%;
+    width: 32%;
+    margin-top: 0px;
+    margin-right: 15px;
+}
+
+#container .twenty .beans .shampo {
+    background: url(shampoo.avif);
+    background-size: cover;
+    background-position: center;
+    height: 30%;
+    width: 32%;
+    position: relative;
+    top: -85px;
+}
+
+#container .twenty .beans .kitchen {
+    background: url(laptop.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60%;
+    width: 33%;
+    margin-left: 15px;
+    position: relative;
+    top: -85px;
+}
+
+#container .twenty .beans .lappy {
+    background: url(water.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 32%;
+    width: 32%;
+    position: relative;
+    left: 33.4%;
+    top: -205px;
+}
+
+#container .twenty button {
+    padding: 10px;
+    width: 150px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: rgb(32, 32, 176);
+    background: white;
+    border-radius: 50px;
+    border: 2px solid rgb(32, 32, 176);
+    margin: auto;
+    display: block;
+}
+
+
+#container .twentyone {
+    height: 750px;
+    background: rgb(10, 10, 69);
+    color: white;
+}
+
+#container .twentyone .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .twentyone .new_1 {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    line-height: 25px;
+}
+
+#container .twentyone .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#container .twentyone .felis{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 35px;
+}
+
+#container .twentyone .option{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#container .twentyone .option .one,.two,.three{
+    width: 33%;
+    height: 400px;
+}
+
+#container .twentyone .option .one h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+#container .twentyone .option .one h1{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 2px solid white;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#container .twentyone .option .one h1 span{
+    font-size: 25px; 
+}
+
+#container .twentyone .option .one p{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+#container .twentyone .option .one p span{
+    margin-right: 10px;
+}
+
+#container .twentyone .option .one button{
+    padding: 10px 10px;
+    width: 250px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    background: transparent;
+    border-radius: 50px;
+    border: 2px solid white;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
+
+
+#container .twentyone .option .two h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+#container .twentyone .option .two h1{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 2px solid white;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#container .twentyone .option .two h1 span{
+    font-size: 25px; 
+}
+
+#container .twentyone .option .two p{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+#container .twentyone .option .two p span{
+    margin-right: 10px;
+}
+
+#container .twentyone .option .two button{
+    padding: 10px 10px;
+    width: 250px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    background: transparent;
+    border-radius: 50px;
+    border: 2px solid white;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
+
+
+
+#container .twentyone .option .three h3{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+}
+
+#container .twentyone .option .three h1{
+    font-size: 24px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    text-align: center;
+    font-size: 65px;
+    border-bottom: 2px solid white;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#container .twentyone .option .three h1 span{
+    font-size: 25px; 
+}
+
+#container .twentyone .option .three p{
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+#container .twentyone .option .three p span{
+    margin-right: 10px;
+}
+
+#container .twentyone .option .three button{
+    padding: 10px 10px;
+    width: 250px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: white;
+    background: transparent;
+    border-radius: 50px;
+    border: 2px solid white;
+    margin: auto;
+    display: block;
+    margin-top: 30px;
+}
+
+#container .twentyone button{
+    padding: 10px;
+    width: 200px;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: gainsboro;
+    background: transparent;
+    border-radius: 50px;
+    border: 2px solid gainsboro;
+    margin: auto;
+    display: block;
+
+}
+
+
+#container .twentytwo{
+    height: 550px;
+}
+
+
+
+#container .twentytwo .new p{
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #4b4b4a;
+}
+
+#container .twentytwo .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 1px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .twentytwo .twentytwo_1{
+    width: 70%;
+    margin: auto;
+}
+
+#container .twentytwo .twentytwo_1 p{
+    margin-bottom: 20px;
+    font-size: 17px;
+    color: #252525;
+}
+
+#container .twentytwo .twentytwo_1 .ul_1{
+    display: flex;
+    margin: auto;
+}
+
+#container .twentytwo .twentytwo_1 .ul_2{
+    width: 50%;
+}
+
+#container .twentytwo .twentytwo_1 li{
+    list-style: none;
+    color: #696969;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+
+#container .twentytwo .twentytwo_1 li::before{
+    content: "\2713";
+    color: #3abc2a;
+    font-weight: bold;
+    font-size: 18px;
+    display: inline-block;
+    width: 22px;
+}
+
+#container .twentytwo .twentytwo_1 button{
+    padding: 7px 25px;
+    text-transform: capitalize;
+    border-radius: 50px;
+    border: 2px solid gray;
+    color: rgb(91, 90, 90);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: transparent;
+    margin-top: 35px;
+}
+
+
+
+#container .twentythree {
+    height: 700px;
+    background: rgb(250, 249, 249);
+}
+
+#container .twentythree .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .twentythree .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .twentythree .twentythree_1 {
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 .inner,
+.twentythree_3 .inner_1{
+    height: 200px;
+    width: 100%;
+
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 .inner {
+    background: url(office.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+#container .twentythree .twentythree_1 .twentythree_3 .inner_1 {
+    background: url(women.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 h2,
+.twentythree_3 h2 {
+    font-size: 30px;
+    text-transform: capitalize;
+    margin: 25px 0px;
+}
+
+#container .twentythree .twentythree_1 .twentythree_2{
+    margin-right: 20px;
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 h6,
+.twentythree_3 h6 {
+    font-size: 12px;
+    text-transform: capitalize;
+    margin: 25px 0px;
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 h6 span,
+.twentythree_3 h6 span {
+    color: rgb(91, 90, 90);
+}
+
+#container .twentythree .twentythree_1 .twentythree_2 p,
+.twentythree_3 p {
+    font-size: 18px;
+    text-transform: capitalize;
+    margin-bottom: 35px;
+    line-height: 30px;
+}
+
+
+
+#container .twentyfour{
+    height: 700px;
+    background: rgb(234, 234, 234);
+    padding: 50px 0px;
+}
+
+#container .twentyfour .img{
+    width: 70%;
+    margin: auto;
+    height: 180px;
+    display: flex;
+    margin-bottom: 25px;
+}
+
+#container .twentyfour .img_1{
+    height: 100%;
+    width: 30%;
+    margin-right: 20px;
+    background: url(laptop1.jpeg);
+    background-size: cover;
+}
+
+#container .twentyfour .img_2{
+    height: 100%;
+    width: 30%;
+    margin-right: 20px;
+    background: url(laptop2.jpg);
+    background-size: cover;
+}
+
+#container .twentyfour .img_3{
+    height: 100%;
+    width: 30%;
+    margin-right: 20px;
+    background: url(laptop3.jpg);
+    background-size: cover;
+}
+
+#container .twentyfour .img .des h2{
+    font-size: 22px;
+    text-transform: capitalize;
+    margin-top: 15px;
+}
+
+#container .twentyfour .img .des h6{
+    font-size: 12px;
+    text-transform: capitalize;
+    margin: 15px 0px;
+}
+
+#container .twentyfour .img .des h6 span{
+    color: rgb(91, 90, 90);
+}
+
+#container .twentyfour .img .des p{
+    line-height: 25px;
+    color: rgb(39, 39, 39);
+}
+
+
+
+
+#container .twentyfive {
+    height: 480px;
+    background: rgb(193, 191, 191);
+}
+
+#container .twentyfive .new p {
+    font-size: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 45px;
+    padding-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+#container .twentyfive .new h2 {
+    font-size: 35px;
+    width: 70%;
+    text-align: center;
+    margin: auto;
+    text-transform: capitalize;
+    padding-bottom: 25px;
+    border-bottom: 2px solid gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 35px;
+}
+
+#container .twentyfive .twentyfive_1{
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+
+#container .twentyfive .twentyfive_1 .twentyfive_2{
+    width: 50%;
+    margin-right: 25px;
+    height: 250px;
+    background: white;
+    padding: 25px;
+}
+
+#container .twentyfive .twentyfive_1 .twentyfive_3{
+    width: 50%;
+    height: 250px;
+    background: white;
+    padding: 25px;
+}
+
+#container .twentyfive .twentyfive_1 p{
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+#container .twentyfive .twentyfive_1 .teste{
+    height: 80px;
+    width: 100%;
+    display: flex;
+}
+
+
+#container .twentyfive .twentyfive_1 .teste .testimg{
+    height: 100%;
+    width: 80px;
+    margin-right: 15px;
+    background: url(phili.avif);
+    background-size: cover;
+}
+
+
+#container .twentyfive .twentyfive_1 .teste .comp h3{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+#container .twentyfive .twentyfive_1 .teste .comp h6{
+    font-size: 14px;
+    text-transform: capitalize;
+    color: rgb(52, 51, 51);
+}
+
+#container .twentyfive .twentyfive_1 .teste .testimg1{
+    height: 100%;
+    width: 80px;
+    margin-right: 15px;
+    background: url(phil2.jpg);
+    background-size: cover;
+}
+
+
+
+#container .twentysix{
+    height: 150px;
+}
+
+#container .twentysix_1{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    height: 100%;
+}
+
+#container .twentysix_1 .ts{
+    width: 25%;
+    height: 100%;
+}
+
+#container .twentysix_1 .twentysix_2{
+    background: url(avantt.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .twentysix_1 .twentysix_3{
+    background: url(ny.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#container .twentysix_1 .twentysix_4{
+    background: url(golden.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#container .twentysix_1 .twentysix_5{
+    background: url(slc.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#container .twentyseven {
+    height: 300px;
+    background: rgb(32, 1, 32);
+}
+
+#container .outt{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    color: white;
+    padding-bottom: 40px;
+    border-bottom: 2px solid white;
+}
+
+#container .outt .twentyseven_1{
+    width: 40%;
+    margin-right: 40px;
+}
+
+#container .outt .twentyseven_1 h1{
+    background-image: linear-gradient(to right, rgb(78, 78, 222), rgb(155, 69, 192), rgb(58, 89, 165));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    text-transform: capitalize;
+    font-size: 55px;
+    margin-bottom: 76px;
+}
+
+#container .outt .twentyseven_1 p{
+    font-size: 18px;
+    line-height: 25px;
+}
+
+#container .outt .twentyseven_3{
+    width: 35%;
+}
+
+#container .outt .twentyseven_3 h2, .twentyseven_4 h2{
+    font-size: 35px;
+    text-transform: capitalize;
+    margin: 10px 0px;
+}
+
+#container .outt .twentyseven_3 p, .twentyseven_4 p{
+    line-height: 25px;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+
+#container .twentyseven .foot{
+    display: flex;
+    width: 70%;
+    margin: auto;
+    color: white;
+    justify-content: space-between;
+}
+
+#container .twentyseven .foot .side , .aside{
+    text-transform: capitalize;
+    font-size: 18px;
+    margin: 10px 0;
+}
